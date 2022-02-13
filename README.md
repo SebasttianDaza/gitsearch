@@ -1,17 +1,61 @@
-# Git Search API 🏴🏴🏴
+<!-- Please update value in the {}  -->
 
-<p>
-    <img src='https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2FgitSearch.png?alt=media&token=8a9c8a3b-f80e-4ef6-bc13-6d4fb2d8fa43' style='border-radius: 5px;'></img>
-</p>
+<h1 align="center">GitHub Search</h1>
 
-Web application painting the GitHub API with different data. This application is a user profile search engine for network programmers, made with HTML, CSS and JS. Very simple but modern design.
+<div align="center">
+  <h3>
+    <a href="https://{[your-demo-link.your-domain](https://gitsearch-orpin.vercel.app/)}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{[your-url-to-the-solution](https://github.com/SebasttianDaza/gitsearch)}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://emprendeyourlifestyle.com/portafolio/">
+      Website Projects
+    </a>
+  </h3>
+</div>
 
+<!-- TABLE OF CONTENTS -->
 
-We obtain from the API:
-- The number of Followers
-- The number of followers
-- The number of repositories
-- 7 Featured repositories
+## Table of Contents
 
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Contact](#contact)
 
-Web Site: https://gitsearch-orpin.vercel.app/
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+![screenshot](https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/searchGit.jpg?alt=media&token=f76f549a-4ae2-44f0-8721-abcd816fbc0f)
+
+![screenshot](https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/gitMobile.jpg?alt=media&token=89ea21b4-1727-4400-a710-ef70cb40683a)
+
+This project is a simple search engine with the API of GitHub. Its got a simple UI all responsive and it's easy to use. I allow me to learn more about use of a API, organizing the data and I can use it in my projects.
+
+It's development with:
+- HTML
+- CSS, CSS Flex and Grid
+- JavaScript with Modules
+- Lite Server
+- Desing with Figma
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- [HTML](https://developer.mozilla.org/)
+- [CSS](https://developer.mozilla.org/)
+- [JS](https://developer.mozilla.org/)
+
+## Contact
+
+- Website [emprendeyourlifestyle](https://{[your-web-site-link](http://emprendeyourlifestyle.com/)})
+- GitHub [@sebasttiandaza](https://{github.com/sebasttiandaza})
+- Twitter [@SebasttianDaza](https://{twitter.com/SebasttianDaza})
