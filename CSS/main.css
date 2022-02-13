@@ -212,5 +212,8 @@ img {
     #symbol {
         width: 100%;
     }
+    .information span p {
+        text-align: left;
+    }   
 }
     
