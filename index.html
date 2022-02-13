@@ -5,34 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Search</title>
+
+    <!-- Icon -->
     <link rel="shortcut icon" href="https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2FLogotipo.png?alt=media&token=4d339d10-6b7a-4500-9b9d-d144662ca34f">
+
+    <!-- Font -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
     <link rel="stylesheet" href="CSS/main.css">
     <script defer src="JS/main.js"></script>
 </head>
 <body>
    <main id="principal">
        <header id="title">
-           <h1></h1>
+           <h1>devFinder</h1>
            <div id="icon">
             <h2>Ligth</h2>
+            <i class="ri-sun-line"></i>
            </div>
         </header>
 
        <nav id="navegation">
            <form id="form">
-               <input type="search" name="" id="">
+               <i class="ri-search-line"></i>
+               <input type="search" name="Nombre de Pelicula" id="search" placeholder="Search GitHub username...">
             </form>
        </nav>
 
         <section id="result">
             <div id="contentPricipal">
-                <div>
-                    <img src="" alt="">
+                <div id="image">
+                    <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Imagen de Perfil">
                 </div>
-                <div>
-                    <h2>The Octocat</h2>
+                <div class="information">
+                    <span>
+                        <h2>The Octocat</h2>
+                        <p>Joined 25 Jan 2015</p>
+                    </span>
                     <p>Bootcat</p>
-                    <p>Joined 25 Jan 2015</p>
                 </div>
             </div>
             <div id="description">
