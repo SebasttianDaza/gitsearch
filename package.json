@@ -1,0 +1,24 @@
+{
+  "name": "gitsearch",
+  "version": "1.0.0",
+  "description": "<p>     <img src='https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2FgitSearch.png?alt=media&token=8a9c8a3b-f80e-4ef6-bc13-6d4fb2d8fa43' style='border-radius: 5px;'></img> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasttianDaza/gitsearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebasttianDaza/gitsearch/issues"
+  },
+  "homepage": "https://github.com/SebasttianDaza/gitsearch#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
