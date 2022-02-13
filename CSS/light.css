@@ -1,0 +1,22 @@
+
+.theme {
+    background-color: var(--color-theme-light);
+    color: var(--color-text-theme);
+}
+
+.light {
+    background-color: var(--color-theme-secundario);
+}
+
+.ligthResult {
+    background-color: var(--color-theme-secundario);
+}
+
+.reposLight {
+    background-color: var(--color-theme-light);
+    color: black;
+}
+
+.inputLight {
+    background-color: var(--color-theme-secundario);
+}

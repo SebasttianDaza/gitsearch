@@ -18,26 +18,28 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="CSS/main.css">
+    <link rel="stylesheet" href="CSS/light.css">
+
     <script type="module" src="JS/main.js"></script>
 </head>
-<body>
+<body class="dark">
    <main id="principal">
        <header id="title">
            <h1>devFinder</h1>
            <div id="icon">
-            <h2>Ligth</h2>
-            <i id='icono' class="ri-sun-line"></i>
+            <h2 id="titleTheme">Ligth</h2>
+            <i id='iconoTheme' class="ri-sun-line"></i>
            </div>
         </header>
 
-       <nav id="navegation">
+       <nav id="navegation" class="navegatation">
            <form id="form">
                <i class="ri-search-line"></i>
-               <input type="search" name="Nombre de Pelicula" id="search" placeholder="Search GitHub username...">
+               <input class='input' type="search" name="Nombre de Pelicula" id="search" placeholder="Search GitHub username...">
             </form>
        </nav>
 
-        <section id="result">
+        <section id="result" class="resultados">
             <div id="contentPricipal">
                 <div id="image">
                     <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Imagen de Perfil">
@@ -53,7 +55,7 @@
             <div id="description">
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi voluptatem architecto dolorum animi cumque totam vero ex error iure! </p>
             </div>
-            <div id="repos">
+            <div id="repos" class="repositorios">
                 <div>
                     <h4>Repos</h4>
                     <p>5</p>

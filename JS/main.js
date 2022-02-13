@@ -16,7 +16,7 @@ DOM.addEventListener("submit", (e) => {
 
 
 DOM.addEventListener("click", (e) => {
-    if(e.target.matches("#icono")) {
+    if(e.target.matches("#iconoTheme")) {
         getTheme();
     }
 })
